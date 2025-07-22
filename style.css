@@ -362,3 +362,9 @@ body {
   color: #1e3c72;
   box-shadow: 0 4px 16px rgba(255,152,0,0.18);
 }
+
+.enlaces-verticales {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5em;
+}
